@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C87F8F5C-203E-C2D8-565E-40693408B7A7}") = "psMoveTest", "Assembly-CSharp.csproj", "{BD84FFE0-1810-09FB-CC66-66D3924454F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD84FFE0-1810-09FB-CC66-66D3924454F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD84FFE0-1810-09FB-CC66-66D3924454F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD84FFE0-1810-09FB-CC66-66D3924454F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD84FFE0-1810-09FB-CC66-66D3924454F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
